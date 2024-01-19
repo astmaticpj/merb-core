@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Clean up unused imgsz (#7771)
