@@ -1,1 +1,6 @@
-Add docstrings to new HUB functions
+Add docstrings to new HUB functions 
+
+
+Hi there
+Please contract me.
+tech.whiz0314@gmail.com
